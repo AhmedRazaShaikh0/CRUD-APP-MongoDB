@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "name": "CRUD APP MongoDB",
+    "builds": [{ "src": "server.mjs", "use": "@vercel/node" }],
+    "routes": [{ "src": "/(.*)", "dest": "/server.mjs" }]
+  }

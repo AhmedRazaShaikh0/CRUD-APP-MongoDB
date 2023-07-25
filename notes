@@ -1,0 +1,18 @@
+ __________
+|   NoSQL  |
+|__________|
+>>> Schema less
+>>> late update in other regions
+>>> Facebook
+ __________
+|    SQL   |
+|__________|
+>>> Schema
+>>> runtime update in every regions
+>>> ATM
+ __________
+| Big Data |
+|__________|
+>>> Volume
+>>> velocity
+>>> Variety
