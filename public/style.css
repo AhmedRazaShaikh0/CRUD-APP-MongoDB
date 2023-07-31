@@ -77,6 +77,10 @@ button {
   /* padding-top: 40px; */
   overflow: scroll;
 }
+.rightBox::-webkit-scrollbar {
+  width: 0px; /* Adjust the width as needed */
+}
+
 label {
   color: black;
   font-size: 20px;
